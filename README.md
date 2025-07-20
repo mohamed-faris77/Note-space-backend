@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# 📝 NoteSpace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**NoteSpace** is a modern, cloud-based journaling and photo storage platform built with **React**, **Spring Boot**, and **MySQL**. Designed with elegance and functionality in mind, it enables users to seamlessly create, view, update, and delete personal journal entries with secure **Google Authentication** through Clerk.
 
-## Available Scripts
+Organized by date, each note or photo entry becomes a part of your life story — always accessible, beautifully displayed, and securely stored.
 
-In the project directory, you can run:
+## ✨ Project Highlights
 
-### `npm start`
+- 🔐 **Google Auth Integration** via Clerk
+- 📅 **Date-wise Organization** for Journals & Photos
+- 📓 **CRUD Features** (Create, Read, Update, Delete) for Journaling
+- 🌐 **Cross-device Access** — Journal from anywhere
+- 📷 **Photo Attachment Support**
+- 🧘 Professional, minimal, and user-friendly UI
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌍 Vision
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> In today's fast-paced world, reflecting on our thoughts and experiences is more valuable than ever. NoteSpace offers a mindful and organized approach to journaling, combining the power of modern web technologies with the elegance of a seamless user experience.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🖥️ Tech Stack
 
-### `npm run build`
+### 🔹 Frontend
+- ⚛️ React JS
+- 🎨 Tailwind CSS
+- 🔐 Clerk Authentication
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🔸 Backend
+- ☕ Java (Spring Boot)
+- 🧩 Spring Data JPA
+- 🌐 Spring Web
+- 🐬 MySQL Driver
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🗄️ Database
+- 🛢️ MySQL
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Getting Started
 
-### `npm run eject`
+### 🛠️ Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Node.js
+- MySQL
+- Java (JDK 17+)
+- Spring Boot CLI or IDE like IntelliJ/Eclipse
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 📦 Clone the Repository
+git clone https://github.com/mohamed-faris77/NoteSpace.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📫 Contact
+Email: mohmdfaris.k@gmail.com
+LinkedIn: linkedin.com/in/mohmd-faris
+GitHub: mohamed-faris77
